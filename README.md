@@ -1,6 +1,6 @@
 # Redifine Animated Website
 
-![image alt](https://github.com/mayankudesu/redifine_animated_website/blob/fa812b962bbba13be15ab7733380e4ef28ea423b/redifine-animated-website.png)
+![image alt](https://github.com/mayankudesu/redifine_animated_website/blob/7a2b2cff589b1b1e81b4d2725ae43077c243496f/Mayankudesu%20-%20Redifine.png)
 
 
 ## 📗 Table of Contents
